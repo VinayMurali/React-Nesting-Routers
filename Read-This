@@ -1,5 +1,13 @@
 PLESE INGNORE ACTION AND REDUCERS FLODERS AND createStoreWithMiddleware IN THIS PROJECT
 
+-->INSTALL NODE MODULES BEFORE RUNNING THE PROJECT
+-->WE CAN TEST IT BY,
+    localhost:8080/
+    localhost:8080/greet
+    localhost:8080/greet1
+    or
+    localhost:8080/test
+    localhost:8080/test2 etc
 
 Simple React nesting application
 
